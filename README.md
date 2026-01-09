@@ -1,2 +1,13 @@
-# react-native-task-assessment
-Build a small React Native application that fetches a list of posts, provides  search functionality, and saves the user’s search history using AsyncStorage.
+
+# React Native Posts App
+
+## Features
+- Fetch posts from API
+- Live search with AsyncStorage persistence
+- Pull-to-refresh
+- Skeleton loaders
+- Error handling
+
+## Run
+npm install
+npm start
